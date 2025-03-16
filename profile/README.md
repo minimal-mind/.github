@@ -1,4 +1,4 @@
-# Minimal Mind Ltd.
+# Minimal Mind
 
 🚀 **Building clean, miminal, and designed software.**
 
