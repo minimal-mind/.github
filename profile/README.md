@@ -9,8 +9,5 @@
 ## Services
 - **Custom Websites** - We build and manage custom websites i.e. [example](https://tj-construction.uk)
 
-## Open Source
-- **[Odin's Spear](https://docs.jordan-prescott.com/)**
-
 ## Connect
 - 📫 hello@minimalmind.io
