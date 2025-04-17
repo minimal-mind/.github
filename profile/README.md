@@ -3,8 +3,10 @@
 🚀 **Building clean, miminal, and designed software.**
 
 ## Projects
-- **[Ensembl](https://ensembl.uk)** – (WIP) A social media content organizer.
-- **Carehive** (WIP) – Automation for independent care homes.
+- **[Ensembl](https://myensembl.com)** – (WIP) A social media content organiser.
+- **[Quidnav](https://quidnav.com)** - (WIP) Centralised database of financial resources aimed at the UK.
+
+## Services
 - **Custom Websites** - We build and manage custom websites i.e. [example](https://tj-construction.uk)
 
 ## Open Source
